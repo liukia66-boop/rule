@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "localhost",
+        "lenok.dynv6.net",
+        "liutx.dynv6.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".liukia.dpdns.org"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "cherr"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "31.58.223.133/32"
+      ]
+    }
+  ]
+}
